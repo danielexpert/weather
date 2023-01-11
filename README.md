@@ -1,4 +1,4 @@
-# This is a project developed with the free API and to improve my JavaScript knowledge using the arrow function #javascript
+# Weather
 
 
 [🔵 Live Project URL](weather-previsao.netlify.app)
